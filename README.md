@@ -1,5 +1,5 @@
 # Hotel_Revenue_Analysis
-ThisDevelop a Database to Analyze Hotel Booking Data.</p>
+Project Goal: Develop a Database to Analyze Hotel Booking Data.</p>
 What the client wants to know:</p>  
 > Is our hotel revenue growing by year?
   > Should we increase our parking lot size?
